@@ -1,7 +1,7 @@
 <h2>Installation</h2>
 
 <ol>
-  <li><strong>Download:</strong> Grab the latest release from the <a href="https://codeload.github.com/omar07ibrahim/YouTube-Ad-Skipper/zip/refs/heads/main?token=AHQQZOHGSDY7OCDP2N73DJTFJCUMQ">Here</a>.</li>
+  <li><strong>Download:</strong> Grab the latest release from the <a href="https://github.com/Dhanush2468/Youttube-ads-Blocker.git">Here</a>.</li>
   <li><strong>Unpack:</strong> Extract the contents of the ZIP file.</li>
   <li><strong>Developer Mode:</strong> In Chrome, open 'Extensions', and enable 'Developer Mode'.</li>
   <li><strong>Load Extension:</strong> Choose 'Load unpacked' and navigate to the extension folder.</li>
